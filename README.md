@@ -1,2 +1,2 @@
 # twitter-homepage
-![Screenshot (84)](https://user-images.githubusercontent.com/114443699/192381590-4191e80b-82a6-4391-b15e-a06a49a337d4.png)
+![Twitter Hompage](https://user-images.githubusercontent.com/114443699/192381785-db2b3c73-5ca0-496e-b604-b853e840bce4.png)
